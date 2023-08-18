@@ -3,12 +3,22 @@
 # 💫 Sobre mi:
 🔭 Actualmente estoy trabajando en<br>Actualmente, estoy inmerso en una emocionante etapa de autodescubrimiento y aprendizaje. Mi enfoque principal es profundizar en tecnologías que antes no había explorado y canalizar mi energía en la creación de proyectos de Full-Stack.<br><br>👯 Estoy buscando colaborar en<br>Me entusiasma la idea de unirme a proyectos web que me resulten fascinantes y desafiantes. Mi objetivo es contribuir y, al mismo tiempo, nutrir mi crecimiento como programador.<br><br>🤝 Estoy buscando ayuda con<br>Si bien me sumerjo en esta travesía de desarrollo, estaría encantado/a de recibir orientación o soluciones colaborativas para superar cualquier obstáculo que surja en mi camino.<br><br>🌱 Actualmente estoy aprendiendo<br>En estos momentos, estoy sumergiéndome en el mundo de Node.js para ampliar mi conjunto de habilidades. Pronto, tengo la firme intención de aventurarme en el fascinante terreno de React.<br><br>💬 Pregúntame sobre<br>Estoy aquí para compartir mis objetivos y aspiraciones en el campo tecnológico. Si deseas saber más sobre los lenguajes y tecnologías que manejo con destreza, o cómo dedico mi tiempo libre, ¡estaré encantado/a de responder tus preguntas!
 
+## 📞 Contacto:
+¡Conéctate conmigo en Discord o por correo electrónico! Aquí tienes mis formas de contacto:
+
+- Discord: `pautronix996` (Cópialo y pégalo en Discord)
+- Correo Electrónico: [priusnoriega@gmail.com](mailto:tu@email.com)
+
+No dudes en enviarme un mensaje para discutir tecnología, colaboración o cualquier otro tema emocionante.
+
+
 
 ## 🌐 Redes Sociales y Perfiles:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pautronix996) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pau-rius-noreiga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pau-rius-noreiga)
+[![LinkedIn](https://img.shields.io/badge/Portfolio-000?logo=Bitbucket&logoColor=yellow)](www.linkedin.com/in/pau-rius-noreiga)
 
-- [LinkedIn](https://www.linkedin.com/in/tu-nombre)
-- Discord - pautronix996
+
+- [LinkedIn](www.linkedin.com/in/pau-rius-noreiga)
 - [Sitio Web](https://www.tusitio.com)
 
 # 💻 Tecnologías:
