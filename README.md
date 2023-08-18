@@ -18,7 +18,7 @@ No dudes en enviarme un mensaje para discutir tecnología, colaboración o cualq
 <!-- [![LinkedIn](https://img.shields.io/badge/Portfolio-000?logo=Bitbucket&logoColor=yellow)](www.linkedin.com/in/pau-rius-noreiga) -->
 
 
-- [LinkedIn](https://www.linkedin.com/in/pau-rius-noreiga)
+<!-- - [LinkedIn](https://www.linkedin.com/in/pau-rius-noreiga) -->
 <!-- - [Sitio Web](https://www.tusitio.com) -->
 
 # 💻 Tecnologías:
