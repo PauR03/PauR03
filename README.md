@@ -16,7 +16,7 @@ No dudes en enviarme un mensaje para discutir tecnología, colaboración o cualq
 ## 🌐 Redes Sociales y Perfiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pau-rius-noreiga)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/334f4f4a-92db-4b49-b16c-0134774daad1/deploy-status)](https://app.netlify.com/sites/paurius/deploys)
-<!-- [![LinkedIn](https://img.shields.io/badge/Portfolio-000?logo=Bitbucket&logoColor=yellow)](www.linkedin.com/in/pau-rius-noreiga) -->
+[![Sitio Web](https://img.shields.io/badge/Portfolio-000?logo=Bitbucket&logoColor=yellow)](https://paurius.netlify.app/)
 
 
 <!-- - [LinkedIn](https://www.linkedin.com/in/pau-rius-noreiga) -->
