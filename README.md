@@ -7,7 +7,7 @@
 ¡Conéctate conmigo en Discord o por correo electrónico! Aquí tienes mis formas de contacto:
 
 - Discord: `pautronix996` (Cópialo y pégalo en Discord)
-- Correo Electrónico: [priusnoriega@gmail.com](mailto:tu@email.com)
+- Correo Electrónico: [priusnoriega@gmail.com](mailto:priusnoriega@email.com)
 
 No dudes en enviarme un mensaje para discutir tecnología, colaboración o cualquier otro tema emocionante.
 
